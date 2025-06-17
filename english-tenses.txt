@@ -1,0 +1,23 @@
+past
+| Tense                   | Example                  | Meaning                                    |
+| ----------------------- | ------------------------ | ------------------------------------------ |
+| Past Perfect Continuous | I had been eating lunch. | Ongoing past action before something else. |
+| Past Perfect            | I had eaten lunch.       | Happened "before" another past event.      |
+| Past Simple             | I ate lunch.             | Finished action in the past.               |
+| Past Continuous         | I was eating lunch.      | Ongoing action in the past.                |
+
+present
+| Tense                      | Example                   | Meaning                                                                |
+| -------------------------- | ------------------------- | ---------------------------------------------------------------------- |
+| Present Perfect Continuous | I have been eating lunch. | Action started in the past and is "still happening" or just stopped.   |
+| Present Perfect            | I have eaten lunch.       | Action completed "recently" or still relevant now.                     |
+| Present Simple             | I eat lunch.              | Habit/routine/general truth.                                           |
+| Present Continuous         | I am eating lunch.        | Happening "right now".                                                 |
+
+future
+| Tense                     | Example                        | Meaning                                                          |
+| ------------------------- | ------------------------------ | ---------------------------------------------------------------- |
+| Future Perfect Continuous | I will have been eating lunch. | Will still be ongoing up to a point in the future.               |
+| Future Perfect            | I will have eaten lunch.       | Will finish before a certain time in the future.                 |
+| Future Simple             | I will eat lunch.              | Future action.                                                   |
+| Future Continuous         | I will be eating lunch.        | Action that will be in progress at a certain time in the future. |
